@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fukuchan-senpai
 - 👀 I’m interested in cloud computing, networking, security.
 - 🌱 I’m currently learning Python, JavaScript, PHP, OAuth, AWS, Vue.js, etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My portfolio site is https://fukuchan-senpai.github.io/portfolio/
 - 📫 How to reach me ...
 
 <!---
