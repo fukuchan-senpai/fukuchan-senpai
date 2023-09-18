@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fukuchan-senpai
-- 👀 I’m interested in cloud computing, internet, programming.
-- 🌱 I’m currently learning Python, JavaScript, PHP, OAuth, AWS, Vue.js, etc.
-- 💞️ My portfolio site is https://fukuchan-senpai.github.io/portfolio/
-- 📫 How to reach me ...
+- 👋 ふくちゃん先輩と呼ばれてます
+- 👀 インターネット、クラウドコンピューティング、プログラミングに興味があります
+- 🌱 使用言語は Python, JavaScript, HTML, PHP, Perl, Terraform(AWS), Vue.js, Delphi など
+- 💞️ ポートフォリオはこちらです https://fukuchan-senpai.github.io/portfolio/
+- 📫 How to reach me ... 時空を超えて語りかけてください
 
 <!---
 fukuchan-senpai/fukuchan-senpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
